@@ -18,9 +18,9 @@ In addition, the add-in computes air absorption values, suggests optimal reverbe
 2.	Copy the Add-in Files:
    Copy and extract the folder „Revit_RT2_addin“  to the Revit Add-ins folder on your system. The location will vary based on the version of Revit and your user setup
 
-•	For all users: C:\ProgramData\Autodesk\Revit\Addins\2023\
+	For all users: C:\ProgramData\Autodesk\Revit\Addins\2023\
 
-•	For the current user: C:\Users\[Username]\AppData\Roaming\Autodesk\Revit\Addins\2023\
+	For the current user: C:\Users\[Username]\AppData\Roaming\Autodesk\Revit\Addins\2023\
 
 3.	Verify Installation:
    
