@@ -1,0 +1,24 @@
+# Ignore the .vs directory, which contains Visual Studio files
+.vs/
+
+# Ignore build directories
+bin/
+obj/
+
+# Ignore NuGet packages
+packages/
+*.nupkg
+*.snupkg
+
+# Ignore user-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+
+# Ignore app configuration files that might contain sensitive information
+App.config
+
+
