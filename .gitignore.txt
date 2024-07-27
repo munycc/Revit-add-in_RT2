@@ -1,0 +1,30 @@
+# Ignore the .vs directory, which contains Visual Studio files
+RevitAddin_RT2/.vs/
+
+# Ignore build directories
+RevitAddin_RT2/bin/
+RevitAddin_RT2/obj/
+
+# Ignore NuGet packages
+packages/
+
+# Ignore user-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore app configuration files that might contain sensitive information
+App.config
+
+# Allow ZIP files
+!*.zip
+
+# Allow specific Revit files
+!Example\ Revit\ File/
+
+# General rules to ignore files in the Example Revit File directory, if necessary
+Example\ Revit\ File/*
+!Example\ Revit\ File/*.rvt
+
