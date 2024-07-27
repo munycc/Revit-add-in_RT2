@@ -11,25 +11,26 @@ In addition, the add-in computes air absorption values, suggests optimal reverbe
 •	SQLite: This add-in uses version 1.0.118.0. Ensure that this version or a compatible one is installed.
 
 # Installation Instructions
-1.	Download the Add-in:
-   
-•	Extract the ZIP file to a folder on your computer.
 
-3.	Copy the Add-in Files:
-•	Copy and extract the folder „Revit_RT2_addin“  to the Revit Add-ins folder on your system. The location will vary based on the version of Revit and your user setup
+1.	Download the Add-in:
+   Extract the ZIP file to a folder on your computer.
+
+2.	Copy the Add-in Files:
+   Copy and extract the folder „Revit_RT2_addin“  to the Revit Add-ins folder on your system. The location will vary based on the version of Revit and your user setup
 
 •	For all users: C:\ProgramData\Autodesk\Revit\Addins\2023\
 
 •	For the current user: C:\Users\[Username]\AppData\Roaming\Autodesk\Revit\Addins\2023\
 
-5.	Verify Installation:
+3.	Verify Installation:
    
-•	Launch Revit. You should see in the Revit Ribbon > Add-ins> External tools> RevitAddin_RT2
+	Launch Revit. You should see in the Revit Ribbon > Add-ins> External tools> RevitAddin_RT2
 
 
 
 
 # Usage Instructions
+
 •	Before using this Revit add-in, update the Absorption_coeff database table with the absorption coefficients of materials relevant to your project
 
 •	The add-in has been created for an English version of Revit, so select ENG in the language section. 
