@@ -1,5 +1,5 @@
 # Revit-add-in_RT2
-Revitaddin_RT2, developed with BCK Architecture in Berlin, is designed to conduct acoustic analyses specifically within rectangular Revit models room.
+Revitaddin_RT2, developed with BCK Architektur in Berlin, is designed to conduct acoustic analyses specifically within rectangular Revit models room.
 It calculates reverberation times across various frequencies using the Sabine and Eyring formulas. 
 In addition, the add-in computes air absorption values, suggests optimal reverberation times, and identifies the Schroeder frequency along with standing wave frequencies—all based on the room's geometry.
 
